@@ -9,7 +9,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-Sample crud for learning about NestJs + TypeOrm + postgresql(all endpoints => get ,post , patch ,delete)
+Sample crud for learning about NestJs + TypeOrm + postgresql( get ,post , patch ,delete)
 
 ## Project setup
 
